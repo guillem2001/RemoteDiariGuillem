@@ -20,3 +20,52 @@
 ![img](https://i.imgur.com/ntwDN94.png)
 ![img](https://i.imgur.com/gEEensY.png)
 ![img](https://i.imgur.com/t6sEmAM.png)
+
+## Captures exercicis 10 i 11
+### Creem el nou repositrori remot i l'assignem
+![img](https://i.imgur.com/b0thdyz.png)
+![img](https://i.imgur.com/EFjRTwl.png)
+
+## Captures exercicis 12 i 13
+### Afegim la zona de posts i fem el commit
+![img](https://i.imgur.com/MkzM46R.png)
+![img](https://i.imgur.com/DmBRf3j.png)
+![img](https://i.imgur.com/IF9A9tB.png)
+
+## Captures exercicis 15 i 16
+### Creem el fitxer .css, l'afegim i fem un commit
+![img](https://i.imgur.com/lcseJQC.png)
+![img](https://i.imgur.com/HYHd3ap.png)
+
+## Captures excercicis 17 i 18
+### Afegim estils i fem el commit
+![img](https://i.imgur.com/Yw6X9je.png)
+![img](https://i.imgur.com/jMeGhIa.png)
+
+## Captures excercicis 19 i 20
+### Afegim el logo, i fem el commit
+![img](https://i.imgur.com/uDk3gIv.png)
+![img](https://i.imgur.com/zTsSDEK.png)
+
+## Captures excercici 21 i 22
+### Afegim estils per al section
+![img](https://i.imgur.com/H26sIr3.png)
+![img](https://i.imgur.com/gSlrnnc.png)
+
+## Captures exercici del 23 al 26
+### Afegim estil pel footer
+![img](https://i.imgur.com/LQauF2k.png)
+![img](https://i.imgur.com/kvlrpXa.png)
+### Afegim estil pel h1 i els enllaços
+![img](https://i.imgur.com/Cs5wXyr.png)
+![img](https://i.imgur.com/TqNFgG4.png)
+
+## Captures excercici 28
+![img](https://i.imgur.com/cTdjtFp.png)
+
+## Captures excercici 29
+### Creem branca develop
+![img](https://i.imgur.com/coxGyd5.png)
+
+
+
