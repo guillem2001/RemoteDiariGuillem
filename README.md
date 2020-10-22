@@ -97,12 +97,17 @@
 ![img](https://i.imgur.com/57cnzWw.png)
 ![img](https://i.imgur.com/ivAF2oG.png)
 
-
 ## Exercicis 49 i 50
 ![img](https://i.imgur.com/Ubeygay.png)
 ![img](https://i.imgur.com/Q6s1S5t.png)
 ![img](https://i.imgur.com/nyuFDxR.png)
 ![img](https://i.imgur.com/oQEoTpC.png)
+
+## Els excercicis del 51 al 54 és la direccio de la pàgina web i el fitxer markdown
+
+## Exercici 55
+![img](https://i.imgur.com/WylryHt.png)
+
 
 
 
