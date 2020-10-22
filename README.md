@@ -1,4 +1,5 @@
-# DiariGuillem
+# Diari Guillem
+## Pagina web - https://guillem2001.github.io/RemoteDiariGuillem/
 ## Captures exercicis del 1 al 5
 ### Creem la carpeta, la inicialitzem i creem el index.html
 ![img](https://i.imgur.com/INpFw0Q.png)
@@ -66,6 +67,44 @@
 ## Captures excercici 29
 ### Creem branca develop
 ![img](https://i.imgur.com/coxGyd5.png)
+
+## Captures exercici 30,31,32
+![img](https://i.imgur.com/dfEXsLT.png)
+![img](https://i.imgur.com/SWS2c1D.png)
+
+## Captures exercici 33 i 34
+![img](https://i.imgur.com/HCwPkXl.png)
+![img](https://i.imgur.com/nxTTAx1.png)
+
+## Captures dels exercicis 35 al 38
+![img](https://i.imgur.com/lkPrta1.png)
+![img](https://i.imgur.com/nIFhgNZ.png)
+
+## Exercicis 39, 40 i 41
+![img](https://i.imgur.com/hAcaBTB.png)
+![img](https://i.imgur.com/VW6rYdD.png)
+![img](https://i.imgur.com/dOMnCpT.png)
+
+## Exercicis del 42 al 46
+![img](https://i.imgur.com/fRv3N1m.png)
+![img](https://i.imgur.com/W8r0fMF.png)
+![img](https://i.imgur.com/daeWPOe.png)
+![img](https://i.imgur.com/0N4CvOk.png)
+
+## Exercicis 47 i 48
+![img](https://i.imgur.com/VdBUixk.png)
+![img](https://i.imgur.com/LhThG66.png)
+![img](https://i.imgur.com/57cnzWw.png)
+![img](https://i.imgur.com/ivAF2oG.png)
+
+
+## Exercicis 49 i 50
+![img](https://i.imgur.com/Ubeygay.png)
+![img](https://i.imgur.com/Q6s1S5t.png)
+![img](https://i.imgur.com/nyuFDxR.png)
+![img](https://i.imgur.com/oQEoTpC.png)
+
+
 
 
 
