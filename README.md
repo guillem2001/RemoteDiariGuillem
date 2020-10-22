@@ -108,6 +108,14 @@
 ## Exercici 55
 ![img](https://i.imgur.com/WylryHt.png)
 
+## Exercici Fork
+![img](https://i.imgur.com/Lzrz7Jw.png)
+![img](https://i.imgur.com/aZxizXK.png)
+
+## Exercici clonar
+![img](https://i.imgur.com/edhcaL5.png)
+![img](https://i.imgur.com/ie8QgDE.png)
+
 
 
 
